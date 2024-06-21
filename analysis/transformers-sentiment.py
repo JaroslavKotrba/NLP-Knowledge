@@ -1,4 +1,4 @@
-# NLP
+# TRANSFORMERS
 
 from transformers import pipeline
 
@@ -13,3 +13,6 @@ text = """
 res = classifier(text)
 
 print(res)
+
+# Tokenizing the text (breaking it into smaller units like words or subwords), and converting it into a format suitable for training.
+# Introduced by Vaswani et al. in 2017, the Transformer architecture is the backbone of most modern LLMs. It consists of layers of attention mechanisms and feed-forward neural networks.
