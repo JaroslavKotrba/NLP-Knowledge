@@ -57,6 +57,7 @@ Follow these steps to set up your environment for using OpenAI:
 2. **Install OpenAI Package:**
     ```sh
     pip install openai
+    pip install instructor
     ```
 
 ---

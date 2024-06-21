@@ -1,12 +1,14 @@
-# OPENAI
+# OPENAI CLIENT
 
 from openai import OpenAI
-from dotenv import load_dotenv
 import json
+import os
+from dotenv import load_dotenv
 
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
-load_dotenv()
-client = OpenAI()
+# load_dotenv()
+# client = OpenAI()
 
 
 def send_reply(message: str):

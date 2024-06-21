@@ -45,6 +45,7 @@ print("GPU is", "available" if gpu_available else "NOT AVAILABLE")
 # INSTALLATION
 # pip install python-dotenv
 # pip isntall OpenAI
+# pip install instructor
 
 from openai import OpenAI
 from dotenv import load_dotenv
