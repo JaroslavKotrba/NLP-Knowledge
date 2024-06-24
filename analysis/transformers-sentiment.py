@@ -2,6 +2,11 @@
 
 from transformers import pipeline
 
+
+# --------------------------------------------------------------
+# Sentiment analysis
+# --------------------------------------------------------------
+
 classifier = pipeline("sentiment-analysis")
 
 # Input text
@@ -11,6 +16,21 @@ text = """
 """
 
 res = classifier(text)
+
+print(res)
+
+# --------------------------------------------------------------
+# Text generation
+# --------------------------------------------------------------
+
+generator = pipeline("text-generation", model="distilgpt2")
+
+res = generator(
+    "In this course we will teach you how to",
+    max_length=30,
+    truncation=True,
+    num_return_sequences=2,
+)
 
 print(res)
 
