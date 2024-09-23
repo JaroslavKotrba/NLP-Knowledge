@@ -1,0 +1,55 @@
+Capital adequacy refers to the requirement for banks and financial institutions to maintain a certain level of capital reserves to cover potential risks and absorb losses, ensuring stability and solvency in adverse conditions. The main goal of capital adequacy regulations is to protect depositors and maintain trust in the financial system.
+
+Key Components of Capital Adequacy Regulation:
+Capital Requirements: Banks must hold a minimum amount of capital based on the riskiness of their assets. The capital is divided into tiers:
+
+Tier 1 Capital: The core capital that includes common equity, retained earnings, and other high-quality capital.
+Tier 2 Capital: Supplementary capital, which includes subordinated debt, hybrid instruments, and revaluation reserves.
+Risk-Weighted Assets (RWA): The assets of the bank (like loans and investments) are weighted according to their risk levels. Safer assets, like government bonds, have a lower risk weight, while riskier assets, like unsecured loans, have a higher risk weight.
+
+Capital Adequacy Ratio (CAR): This is the ratio of a bank’s capital to its risk-weighted assets. The formula is:
+
+CAR
+=
+Tier 1 Capital
++
+Tier 2 Capital
+Risk-Weighted Assets (RWA)
+CAR= 
+Risk-Weighted Assets (RWA)
+Tier 1 Capital+Tier 2 Capital
+​
+ 
+Regulators require banks to maintain a minimum CAR to ensure that they can absorb a reasonable amount of loss and are protected against insolvency.
+
+Global Standards for Capital Adequacy:
+The global regulatory framework for capital adequacy is governed by the Basel Accords, developed by the Basel Committee on Banking Supervision (BCBS).
+
+Basel I (1988): Introduced the concept of minimum capital requirements and risk-weighted assets. It set the minimum capital requirement at 8% of risk-weighted assets.
+
+Basel II (2004): Focused more on risk management and expanded the concept of risk to include operational risk, not just credit risk. Basel II emphasized three pillars:
+
+Minimum capital requirements
+Supervisory review process
+Market discipline (public disclosure requirements)
+Basel III (2010): Strengthened the regulatory framework in response to the 2008 financial crisis. Key changes include:
+
+Higher Capital Requirements: Banks are required to hold more high-quality capital (especially Tier 1 capital).
+Capital Conservation Buffer: An additional buffer of 2.5% to absorb losses during periods of financial and economic stress.
+Countercyclical Capital Buffer: A buffer that varies based on the economic cycle, allowing regulators to impose additional capital requirements in good times to prepare for downturns.
+Leverage Ratio: A simple measure of capital to total assets (without risk weighting), ensuring that banks are not over-leveraged.
+Liquidity Requirements: New requirements like the Liquidity Coverage Ratio (LCR) and Net Stable Funding Ratio (NSFR) were introduced to ensure banks maintain sufficient liquidity.
+Basel III Minimum Capital Requirements:
+Minimum Common Equity Tier 1 (CET1) Ratio: 4.5%
+Minimum Tier 1 Capital Ratio: 6%
+Minimum Total Capital Ratio: 8%
+Capital Conservation Buffer: 2.5% (bringing the total requirement to 10.5%)
+Countercyclical Buffer: 0%–2.5% (applied at the discretion of national regulators)
+Additional Requirements for Systemically Important Banks (SIBs):
+Systemically important banks, also known as "too big to fail" institutions, are subject to additional capital requirements to ensure that their failure does not trigger a systemic crisis. These banks may need to hold additional capital buffers to account for their larger systemic risk.
+
+Key Takeaways:
+Capital adequacy ensures that banks can absorb losses and remain solvent during financial stress.
+Regulations are governed globally by the Basel Accords (Basel I, II, and III).
+Banks must maintain a minimum Capital Adequacy Ratio (CAR) based on their risk-weighted assets, and they are also required to hold additional capital buffers to absorb potential losses during economic downturns.
+These regulations aim to make the financial system more stable and less prone to crises like those seen in 2008.
