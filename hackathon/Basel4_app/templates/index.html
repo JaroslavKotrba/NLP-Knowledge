@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Basel 4 Query</title>
+    <!-- Link to the default favicon -->
+    <link rel="icon" type="image/png" href="static/Barclays-logo.png">
+
+    <!-- Apple Touch Icon (iPhone, iPad) -->
+    <link rel="apple-touch-icon" href="static/Barclays-logo.png">
+
+    <!-- For Safari pinned tab icon (Optional, if you want a custom color) -->
+    <link rel="mask-icon" href="static/Barclays-logo.png" color="#005EB8">
+
+    <!-- Android Chrome Icon (192x192 and 512x512 are commonly used sizes) -->
+    <link rel="icon" sizes="192x192" href="static/Barclays-logo.png">
+    <link rel="icon" sizes="512x512" href="static/Barclays-logo.png">
+
+    <!-- Microsoft Tile Icon for Windows (Optional) -->
+    <meta name="msapplication-TileImage" content="static/Barclays-logo.png">
+    <meta name="msapplication-TileColor" content="#005EB8">
+
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="static/style.css">
+
+    <!-- Other meta tags and links -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+
+<body>
+    <div class="container">
+        <div class="logo-container">
+            <img src="static/Barclays-logo.png" alt="Barclays Logo" class="barclays-logo">
+        </div>
+        <h1>Basel IV Questions</h1>
+        <form id="queryForm">
+            <label for="query">Ask a question about Basel 4:</label>
+            <textarea id="query" name="query" required></textarea>
+            <button type="submit">
+                Ask <i class="fas fa-paper-plane"></i>
+            </button>
+        </form>
+        <div class="result-container">
+            <div id="result">
+                <h2>Response</h2>
+                <p id="reply"></p>
+                <p><strong>Category:</strong> <span id="category"></span></p>
+                <p><strong>Confidence:</strong> <span id="confidence"></span></p>
+            </div>
+        </div>
+        Created with love for my colleagues &hearts;
+    </div>
+    <script src="static/script.js"></script>
+</body>
+
+</html>
